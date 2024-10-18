@@ -41,7 +41,7 @@ related to the website content.
 Part 3: Submission
 6. Code Submission:
 
-○ Submit the Python scripts and created dataset
-○ Use github to submit the code.
-○ Ensure that your code is well-documented and easy to follow.
-○ Create a short video of question answering of the chatbot
+○ Submited the Python scripts and created dataset
+○ Used github to submit the code.
+○ Ensured that the code is well-documented and easy to follow.
+○ Created a short video of question answering of the chatbot. 
